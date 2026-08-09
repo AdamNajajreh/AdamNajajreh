@@ -26,5 +26,4 @@ const aboutMe = {
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=AdamNajajreh&show_icons=true&theme=dark&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamNajajreh&theme=dark&hide_border=true">
 </div>
